@@ -48,12 +48,8 @@
 ## 📫 Let's Connect
 
 Feel free to reach out if you’d like to collaborate or just say hi!  
-[![https://linkedin.com/in/quang-vu-49805930a](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
-[![truongquangvu4103@gmail.com](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:your.email@example.com)
-
----
-
-> *"Code is not just code — it's an opportunity to build, solve, and grow."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/quang-vu-49805930a)  
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:truongquangvu4103@gmail.com)
 
 <!--
 **QuangVu41/QuangVu41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
