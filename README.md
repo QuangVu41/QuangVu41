@@ -44,12 +44,12 @@
 - 📚 Keep learning and improving my development skills  
 
 ---
-<!--
+
 ## 📫 Let's Connect
 
 Feel free to reach out if you’d like to collaborate or just say hi!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![https://linkedin.com/in/quang-vu-49805930a](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
+[![truongquangvu4103@gmail.com](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:your.email@example.com)
 
 ---
 
