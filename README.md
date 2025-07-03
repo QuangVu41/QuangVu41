@@ -39,17 +39,17 @@
 
 ---
 
-## 🚀 Goals
+## 📫 How to reach out me
 
-- 📚 Keep learning and improving my development skills  
+Feel free to reach out if you’d like to collaborate or just say hi!  
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:truongquangvu4103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/quang-vu-49805930a)  
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Goals
 
-Feel free to reach out if you’d like to collaborate or just say hi!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/quang-vu-49805930a)  
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:truongquangvu4103@gmail.com)
+- 📚 Keep learning and improving my development skills  
 
 <!--
 **QuangVu41/QuangVu41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
