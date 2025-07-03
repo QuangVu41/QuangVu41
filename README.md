@@ -6,6 +6,14 @@
 
 ---
 
+## 📫 How to reach out me
+
+Feel free to reach out if you’d like to collaborate or just say hi!  
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:truongquangvu4103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/quang-vu-49805930a)  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages & Front-End**
@@ -36,14 +44,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
 </p>
-
----
-
-## 📫 How to reach out me
-
-Feel free to reach out if you’d like to collaborate or just say hi!  
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:truongquangvu4103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/quang-vu-49805930a)  
 
 ---
 
