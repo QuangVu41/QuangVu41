@@ -10,7 +10,7 @@
 
 Feel free to reach out if you’d like to collaborate or just say hi!  
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:truongquangvu4103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/quang-vu-49805930a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vu-quang-49805930a)  
 
 ---
 
