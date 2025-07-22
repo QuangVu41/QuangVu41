@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Quang Vu
 
-🎓 I'm a **senior college student** passionate about web development, currently seeking an **internship opportunity** to apply my skills, gain industry experience, and contribute to real-world projects.
+🎓 I'm a **final-year student** passionate about web development, currently seeking an **internship opportunity** to apply my skills, gain industry experience, and contribute to real-world projects.
 
 💻 A **motivated and detail-oriented Full-Stack Developer**, I enjoy building scalable, efficient web applications and constantly learning through collaboration.
 
