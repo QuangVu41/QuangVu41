@@ -53,5 +53,6 @@ Feel free to reach out if you’d like to collaborate or just say hi!
 
 ---
 
-## My Stat 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangVu41&show_icons=true)](https://github.com/QuangVu41/github-readme-stats)
+## My Stats
+<img alt="Top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangVu41&layout=compact&theme=dark" />
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=QuangVu41&show_icons=true&theme=dark" />
